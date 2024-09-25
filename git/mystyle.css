@@ -185,4 +185,15 @@ main {
     font-family: "New Amsterdam", sans-serif ;
 }
 
+.B1 {margin-top: 75px;
+    float: left;
+    overflow: auto;
+    font-family: "New Amsterdam", sans-serif;
+    text-align: left;
+    font-size: 50px;
+    color: rgb(179, 35, 25);
+    margin-bottom: 10px;
+position: absolute;
+left: 25px }
 
+.B1:hover {text-decoration-line: underline;}
