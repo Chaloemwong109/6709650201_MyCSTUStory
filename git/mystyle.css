@@ -144,13 +144,18 @@ video {
     top: 0px;
 }
 
-ul ol {margin: 0px;
+ul ol a{margin: 0px;
 padding: 0px;}
 
-.year ul ol {
-    display: block;
+.year ul ol a{
     margin: 60px;
+    display: block;
 font-family:  "New Amsterdam", sans-serif ;
-margin-left: -5px;}
-.year ul ol:hover {color: rgb(179, 35, 25) ;}
-   
+margin-left: -10px;
+color: black;
+text-decoration: none;}
+
+.year ul ol a:hover{color:  rgb(179, 35, 25);}
+
+
+
