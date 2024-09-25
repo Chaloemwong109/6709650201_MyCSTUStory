@@ -173,6 +173,7 @@ main {
     padding: 20px;
     font-family: "New Amsterdam", sans-serif ;
     text-align: center;
+    font-size: 35px;
 }
 /* Recipe Section Styles */
 .recipe-section {
@@ -181,6 +182,7 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
     padding: 20px;
+    font-family: "New Amsterdam", sans-serif ;
 }
 
 
