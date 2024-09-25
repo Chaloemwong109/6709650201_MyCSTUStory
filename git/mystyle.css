@@ -158,4 +158,29 @@ text-decoration: none;}
 .year ul ol a:hover{color:  rgb(179, 35, 25);}
 
 
+main {
+    padding: 20px;
+    width: 73%;
+    float: right;
+}
+
+/* Info Section Styles */
+.FIRST-YEAR {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family: "New Amsterdam", sans-serif ;
+    text-align: center;
+}
+/* Recipe Section Styles */
+.recipe-section {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
 
