@@ -140,8 +140,7 @@ video {
     height: auto;
     border-radius: 15px;
     text-align: center;
-    position: sticky;
-    top: 0px;
+    position: fixed;
 }
 
 ul ol a{margin: 0px;
@@ -198,3 +197,4 @@ left: 25px }
 
 .B1:hover {text-decoration-line: underline;}
 
+#search {width: 80%;}
