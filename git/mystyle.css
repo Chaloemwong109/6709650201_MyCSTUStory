@@ -218,3 +218,7 @@ left: 25px }
     100% { width: 460px; height: auto; }
   }
   
+#money {width: 320px;
+position: absolute;
+bottom: 40%;
+left: 75%;}
