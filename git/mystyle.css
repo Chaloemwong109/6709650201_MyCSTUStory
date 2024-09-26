@@ -218,7 +218,21 @@ left: 25px }
     100% { width: 460px; height: auto; }
   }
   
-#money {width: 320px;
+#money {width: auto;
+    height:400px ;
 position: absolute;
-bottom: 40%;
-left: 75%;}
+bottom: 45%;
+left: 75%;
+-webkit-box-reflect: left 700px;
+}
+
+.rich {
+    background-color: #fff;
+    border-radius: 8px;
+   box-sizing: 20px;
+    box-shadow: 0 20px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1px;
+    padding: 20px;
+    font-family: "New Amsterdam", sans-serif ;
+    width: 30%;
+}
