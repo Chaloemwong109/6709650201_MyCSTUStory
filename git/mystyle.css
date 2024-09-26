@@ -198,3 +198,23 @@ left: 25px }
 .B1:hover {text-decoration-line: underline;}
 
 #search {width: 80%;}
+
+#richman {
+    position: relative;
+    top: 20px;
+    width: 350px;
+    height: auto; 
+    animation-name: richman;
+    animation-duration: 4s;
+    animation-fill-mode: forwards; 
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes richman {
+    0%   { width: 350px; height: auto; }
+    25%  { width: 400px; height: auto; }
+    50%  { width: 420px; height: auto; }
+    75%  { width: 440px; height: auto; }
+    100% { width: 460px; height: auto; }
+  }
+  
